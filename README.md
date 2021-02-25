@@ -3,6 +3,23 @@
 ## AIM:
 To create a UX design and develop a web application for event registration.
 ## DESIGN STEPS:
+Step 1:
+Requirement collection.
+
+Step 2:
+Choosing the suitable color scheme
+
+Step 3:
+Creating artboards for individual pages
+
+Step 4:
+Designing layout for individual pages
+
+Step 5:
+Creating links and linking it with artboards
+
+Step 6:
+Preview the prototype.
 
 
 ## DESIGN SCREENS:
@@ -252,7 +269,7 @@ To create a UX design and develop a web application for event registration.
                 {% endfor %}
 
 
-            </tbody>
+                </tbody>
         </table> -0v
     </div>
 
